@@ -1,0 +1,26 @@
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environnements virtuels
+env/
+venv/
+ENV/
+
+# Fichiers JupyterLab ou VSCode
+.vscode/
+*.code-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de logs ou temporaires
+*.log
+*.tmp
+
+*.env
