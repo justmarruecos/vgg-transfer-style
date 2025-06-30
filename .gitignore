@@ -8,7 +8,7 @@ __pycache__/
 
 # Environnements virtuels
 env/
-venv/
+venv3/
 ENV/
 
 # Fichiers JupyterLab ou VSCode
